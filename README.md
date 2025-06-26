@@ -1,9 +1,10 @@
-# ohsint-plus__plus
+# WOOPS!
 
-Hello everyone! I’m from London! and passionate about open source intelligence projects.
+Just decoys this way.
 
-Follow me on Twitter: @xylmiz
+Looks like you can't guess how
+to get the message
+out.
 
-This project is a new social network designed for sharing photos of your hometown.
 
-The project is launching soon! If you’d like to contribute, please email me at: xylmiz.challenge@gmail.com
+If you find right way out, please email me at: xylmiz.challenge@gmail.com
