@@ -7,4 +7,4 @@ to get the message
 out.
 
 
-If you find right way out, please email me at: xylmiz.challenge@gmail.com
+If you manage to find the right path, please email me at: xylmiz.challenge@gmail.com
